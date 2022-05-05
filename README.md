@@ -1,1 +1,1 @@
-# Deep Learning-based Noise Reduction for Coronary CT Angiography: Using Four-dimensional Noise-Reduction Images as the Ground Truth 
+# Deep-Learning-Based Post Hoc CT Denoising For Myocardial Delayed Enhancement 
