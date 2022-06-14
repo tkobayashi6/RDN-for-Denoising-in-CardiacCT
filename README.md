@@ -6,7 +6,7 @@ This repository is the official implementation of Deep-Learning-Based Post Hoc C
 
 We used Residual Dense Network (RDN) for the denoising task in a myocardial delayed enhancement (MDE) CT.
 
-![](./img/Figure1.png)
+![](./img/figure.png)
 
 Our methods for creating ground-truth images are described in the paper.
 The detailed scan and reconstruction parameters in MDE CT are described in Supplemental Table 1.
