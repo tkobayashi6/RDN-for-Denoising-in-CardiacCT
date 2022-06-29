@@ -1,8 +1,7 @@
 # Deep-Learning-Based Post Hoc CT Denoising For Myocardial Delayed Enhancement 
 
-This repository is the official implementation of Deep-Learning-Based Post Hoc CT Denoising For Myocardial Delayed Enhancement.
+This repository is the official implementation of [Deep-Learning-Based Post Hoc CT Denoising For Myocardial Delayed Enhancement](https://pubs.rsna.org/doi/10.1148/radiol.220189).
 
-<!-- [paper]() -->
 
 We used Residual Dense Network (RDN) for the denoising task in a myocardial delayed enhancement (MDE) CT.
 
